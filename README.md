@@ -1,4 +1,4 @@
-# beginner-code-links
+
 
 javascriptissexy.com
 
@@ -11,3 +11,5 @@ railstutorial.org
 railszombies.org
 
 ruby-lang.org
+
+http://www.learnrubyandrails.com
